@@ -32,4 +32,4 @@ class StatefulGreeting extends React.Component {
     }
 }
 
-export default StatefulGreeting;
+{/*export default StatefulGreetingWithCallback;*/}
