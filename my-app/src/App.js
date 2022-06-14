@@ -10,6 +10,7 @@ import EventsClass from './components/EventsClass';
 import EventBinding from './components/EventBinding';
 import ConditionalRenderingFunctional from './components/ConditionalRenderingFunctional';
 import ConditionalRenderingClass from './components/ConditionalRenderingClass';
+import NestingComponents from './components/NestingComponents';
 
 function App() {
   return (
@@ -21,9 +22,10 @@ function App() {
   <StatefulGreetingWithPrevState />
       <EventsFunctional />
   <EventsClass />
-  <EventBinding />*/}
+  <EventBinding />
       <ConditionalRenderingFunctional connected={false} />
-      <ConditionalRenderingClass />
+  <ConditionalRenderingClass />*/}
+      <NestingComponents />
     </div>
   );
 }
