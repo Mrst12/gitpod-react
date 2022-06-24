@@ -30,29 +30,29 @@ import HTTPPost from './components/HTTPPost';
 function App() {
   return (
     <div className="App">
-      {/*<FunctionalGreeting />
-      <FunctionalGreetingWithProps greeting="nice to meet you!" name="Mike" age="32" />
-      <StatefulGreeting greeting="I'm a stateful class component!" />
-  <StatefulGreetingWithCallback />
-  <StatefulGreetingWithPrevState />
-      <EventsFunctional />
-  <EventsClass />
-  <EventBinding />
-      <ConditionalRenderingFunctional connected={false} />
-  <ConditionalRenderingClass />
-  <NestingComponents />
-  <MethodsAsPropsParent />
-  <RenderingLists />
-  <LifeCyclesCDM />
-  <LifeCyclesCDU />
-  <LifeCyclesCWU />
-  <ControlledForm />
-  <UncontrolledForm />
-  <SearchBar />
-  <ControlledFormHooks />
-  <UseStateWithArrays />
-  <UseStateWithObjects />
-  <UseEffectCounter />*/}
+      {/*<FunctionalGreeting />*/}
+      {/*<FunctionalGreetingWithProps greeting="nice to meet you!" name="Mike" age="32" />*/}
+      {/*<StatefulGreeting greeting="I'm a stateful class component!" />*/}
+  {/*<StatefulGreetingWithCallback />*/}
+  {/*<StatefulGreetingWithPrevState />*/}
+      {/*<EventsFunctional />*/}
+  {/*<EventsClass />*/}
+  {/*<EventBinding />*/}
+      {/*<ConditionalRenderingFunctional connected={false} />*/}
+  {/*<ConditionalRenderingClass />*/}
+  {/*<NestingComponents />*/}
+  {/*<MethodsAsPropsParent />*/}
+  {/*<RenderingLists />*/}
+  {/*<LifeCyclesCDM />*/}
+  {/*<LifeCyclesCDU />*/}
+  {/*<LifeCyclesCWU />*/}
+  {/*<ControlledForm />*/}
+  {/*<UncontrolledForm />*/}
+  {/*<SearchBar />*/}
+  {/*<ControlledFormHooks />*/}
+  {/*<UseStateWithArrays />*/}
+  {/*<UseStateWithObjects />*/}
+  {/*<UseEffectCounter />*/}
       {/*<UseEffectCounterContainer />*/}
       {/*<HTTPRequests />*/}
       <HTTPPost />
